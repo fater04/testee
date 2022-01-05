@@ -1,0 +1,7 @@
+[27-Sep-2021 18:03:08 UTC] Erreur de la base de données WordPress : Unknown column 'wp_' in 'field list' pour la requête SELECT wp_
+[28-Sep-2021 00:49:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/defekgne/academieace.com/wp-includes/formatting.php on line 4315
+[28-Sep-2021 00:54:08 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/defekgne/academieace.com/wp-includes/formatting.php on line 4315
+[10-Nov-2021 23:03:47 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/defekgne/academieace.com/wp-includes/formatting.php on line 4315
+[10-Nov-2021 23:05:22 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/defekgne/academieace.com/wp-includes/formatting.php on line 4315
+[10-Nov-2021 23:07:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/defekgne/academieace.com/wp-includes/formatting.php on line 4315
+[10-Nov-2021 23:08:25 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in /home/defekgne/academieace.com/wp-includes/formatting.php on line 4315

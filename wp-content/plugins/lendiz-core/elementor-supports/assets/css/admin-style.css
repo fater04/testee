@@ -1,0 +1,213 @@
+/* General Styles */
+.lendiz-shortcodes-container {
+    width: 1200px;
+    max-width: 100%;
+    padding: 0 15px;
+}
+.lendiz-row {
+    display: flex;
+    position: relative;
+	clear: both;
+}
+*[class^="lendiz-col-"] {
+    display: inline-block;
+}
+.lendiz-col-2 {
+    width: 50%;
+}
+.lendiz-col-3 {
+    width: 33.333%;
+}
+.lendiz-row .lendiz-col-3 {
+    border: 1px solid #f2f2f2;
+    padding: 20px 40px;
+    text-align: center;
+}
+.element-group > *:first-child {
+    margin-bottom: 5px;
+}
+.lendiz-admin-content-wrap .element-group {
+    margin-bottom: 10px;
+}
+.lendiz-admin-content-wrap .lendiz-plugin-submit {
+    margin: 20px 10px;
+    padding: 0 30px;
+}
+p.lendiz-field-desc {
+    font-size: 12px;
+    font-style: italic;
+}
+.lendiz-admin-wrap {
+    padding: 30px 15px;
+}
+.lendiz-admin-content-wrap {
+    border: solid 1px #e1e1e1;
+    padding: 30px;
+    height: auto;
+    overflow: hidden;
+    background: #fff;
+}
+ul.lendiz-meta-rating.star-rating > li {
+    display: inline-block;
+}
+
+/* Switch Button Styles */
+.lendiz-admin-wrap .switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+.lendiz-admin-wrap .switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.lendiz-admin-wrap .switch .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.lendiz-admin-wrap .switch .slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.lendiz-admin-wrap .switch input:checked + .slider {	
+  background-color: #2196F3;
+}
+
+.lendiz-admin-wrap .switch input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+.lendiz-admin-wrap .switch input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+.lendiz-admin-wrap .switch .slider.round {
+  border-radius: 34px;
+}
+.lendiz-admin-wrap .switch .slider.round:before {
+  border-radius: 50%;
+}
+
+/* Tab Styles */
+.lendiz-tab-list {
+    float: left;
+    border-right: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 25%;
+    height: 600px;
+	padding-bottom: 50px;
+}
+ul.tablinks-list {
+    position: relative;
+    overflow: hidden;
+}
+.lendiz-tab-list .tablinks {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 16px;
+    font-weight: bold;
+}
+.lendiz-tab-list .tablinks:hover {
+    background-color: #ddd;
+}
+.lendiz-tab-list .tablinks.active {
+    background-color: #ccc;
+}
+.lendiz-tab .tabcontent {
+    float: left;
+    padding: 0px 12px;
+    width: 71%;
+    border-left: none;
+    height: 600px;
+	overflow-y: auto;
+    padding-bottom: 50px;
+}
+.lendiz-tab .tab-hide {
+	display: none;
+}
+.field-set {
+    margin-bottom: 30px;
+}
+.field-set-left > h5 {
+    margin-bottom: 10px;
+}
+.field-set-right > input, .field-set-right > select {
+    min-width: 320px;
+    min-height: 36px;
+    max-width: 100%;
+}
+
+/* CEA Option Form Styles */
+form#lendiz-form-wrapper {
+    position: relative;
+}
+input.lendiz-submit {
+    position: absolute;
+    top: 20px;
+    right: 18%;
+}
+
+/*Admin Meta Drag and Drop Field CSS*/
+.field-set-right .meta-items {
+    background-color: #e1e1e1;
+    padding: 30px 15px;
+}
+.field-set-right .meta-items.meta-items-enabled {
+    background: #32373c none repeat scroll 0 0;
+}
+.field-set-right .meta-items li {
+   background-color: #0073aa;
+    color: #fff;
+    cursor: all-scroll;
+    display: inline-block;
+    margin-left: 5px;
+    padding: 8px 15px;
+}
+.field-set-right .meta-field-table tbody tr td:first-child{
+	width:25%;
+}
+.field-set-right .meta-items, .field-set-right .meta-items li{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.field-set-right .droppable-active, .field-set-right .meta-items.meta-items-enabled.droppable-active {
+	border:dashed 2px #0073AA;
+	background-color:#00aef0;
+}
+.field-set-right .droppable-active li{
+	background-color:#0b9bd2;
+	border:solid #48b3db 1px;
+	color:#fff;
+}
+
+select.elementor-control-fa-icon {
+	font-family: 'FontAwesome';
+}
+select.elementor-control-ti-icon {
+	font-family: 'themify';
+}

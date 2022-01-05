@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lendiz\n"
+"POT-Creation-Date: 2021-05-20 18:19+0530\n"
+"PO-Revision-Date: 2021-05-20 18:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: zozothemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/customizer/assets/js/wp-color-picker-alpha.min.js:92
+msgid "Color value"
+msgstr ""
+
+#: admin/customizer/assets/js/wp-color-picker-alpha.min.js:113
+msgid "Select Color"
+msgstr ""
+
+#: admin/customizer/assets/js/wp-color-picker-alpha.min.js:124
+msgid "Default"
+msgstr ""
+
+#: admin/customizer/assets/js/wp-color-picker-alpha.min.js:125
+msgid "Select default color"
+msgstr ""
+
+#: admin/customizer/assets/js/wp-color-picker-alpha.min.js:129
+msgid "Clear"
+msgstr ""
+
+#: admin/customizer/assets/js/wp-color-picker-alpha.min.js:130
+msgid "Clear color"
+msgstr ""
+
+#: admin/mega-menu/edit_custom_walker.php:338
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:301
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:307
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:313
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:319
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:325
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:336
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:341
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:346
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1922
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2233
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2272
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2276
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2280
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2284
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2358
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2753
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/theme-default/theme-default.php:12
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/welcome-page/importer/parsers.php:51
+#: admin/welcome-page/importer/parsers.php:84
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:95
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:96
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:149
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:271
+msgid "- Select -"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:584
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:640
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:929
+msgid "Could not create temporary file."
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:948
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:964
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:976
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:983
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:988
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:994
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:1026
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:1041
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: admin/welcome-page/importer/wordpress-importer.php:1327
+msgid "The given object ID is not that of a menu item."
+msgstr ""
+
+#: comments.php:86
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:92
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:512
+#, php-format
+msgid "- %1$s"
+msgstr ""
+
+#: inc/woo-functions.php:309 inc/woo-functions.php:443
+msgid "Remove this item"
+msgstr ""
+
+#: template-parts/post/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""

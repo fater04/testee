@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"lendiz","mapped_name":"ochoaboo"},"allowed_paths":["\/home\/defekgne\/academieace.com\/wp-content\/themes"],"cache_path":"\/home\/defekgne\/academieace.com\/wp-content\/cache\/wph\/","wordpress_directory":"","site_relative_path":"\/"}'; ?>

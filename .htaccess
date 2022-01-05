@@ -1,0 +1,44 @@
+# PH pagespeed start
+<IfModule pagespeed_module>
+ModPagespeed on
+ModPagespeedRewriteLevel PassThrough
+ModPagespeedEnableFilters add_head,fallback_rewrite_css_urls,flatten_css_imports,rewrite_style_attributes_with_url,extend_cache,collapse_whitespace,convert_meta_tags,remove_comments,combine_javascript,rewrite_javascript,inline_javascript,rewrite_css,combine_css,inline_css,inline_import_to_link,rewrite_images,local_storage_cache
+</IfModule>
+# PH pagespeed end 
+# BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase / 
+#WriteCheckString:1632764767_34445
+RewriteRule .* - [E=HTTP_MOD_REWRITE:On]
+RewriteRule ^rewrite_test_1632764767_34445/? /wp-content/plugins/wp-hide-security-enhancer/include/rewrite-confirm.php [L,QSA]
+
+RewriteRule ^ochoaboo/(.+) /wp-content/themes/lendiz/$1 [L,QSA]
+
+RewriteRule ^psassooc/(.+) /wp-content/plugins/$1 [L,QSA]
+
+RewriteRule ^ypsovexo/(.+) /wp-includes/$1 [L,QSA]
+
+RewriteRule ^psawylsy/(.+) /wp-content/uploads/$1 [L,QSA]
+
+RewriteRule ^oomsooka.php /wp-comments-post.php [L,QSA]
+
+RewriteRule ^eeptaksy/(.+) /wp-content/$1 [L,QSA]
+</IfModule> 
+
+# END WP Hide & Security Enhancer
+# BEGIN WordPress
+# Les directives (lignes) entre « BEGIN WordPress » et « END WordPress » sont générées
+# dynamiquement, et doivent être modifiées uniquement via les filtres WordPress.
+# Toute modification des directives situées entre ces marqueurs sera surchargée.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

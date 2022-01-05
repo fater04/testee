@@ -1,0 +1,168 @@
+[06-Oct-2021 13:06:02 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Oct-2021 13:16:32 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Oct-2021 00:56:31 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2021 11:42:18 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2021 12:28:06 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Oct-2021 10:43:14 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Oct-2021 08:15:09 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 20:27:09 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 20:50:02 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Oct-2021 00:09:14 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Oct-2021 14:54:42 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2021 22:08:38 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2021 22:11:07 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Nov-2021 02:01:35 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Nov-2021 19:43:11 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Nov-2021 19:49:07 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Nov-2021 06:21:35 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Nov-2021 19:55:51 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2021 03:05:01 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Nov-2021 08:30:10 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Nov-2021 20:03:41 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Nov-2021 20:05:11 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2021 01:32:52 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Dec-2021 05:33:59 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Dec-2021 08:54:14 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Dec-2021 10:06:11 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2021 02:45:52 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Dec-2021 03:15:51 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Dec-2021 15:55:11 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Dec-2021 00:35:39 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Dec-2021 00:43:34 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Dec-2021 00:48:52 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Dec-2021 01:01:08 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Dec-2021 13:53:48 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2021 22:49:42 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2021 11:10:17 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2021 21:32:39 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2021 22:01:41 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Dec-2021 15:34:58 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Dec-2021 06:09:17 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Dec-2021 19:03:17 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2022 22:50:03 America/Port-au-Prince] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/defekgne/academieace.com/wp-includes/widgets/class-wp-widget-block.php on line 17
